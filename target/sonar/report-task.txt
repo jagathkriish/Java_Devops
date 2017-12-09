@@ -1,7 +1,7 @@
-organization=vekatkriish-github
-projectKey=DevopsWithJava:javavenv
+organization=jagathkriish-github
+projectKey=JavaDevops:javadevops
 serverUrl=https://sonarcloud.io
 serverVersion=6.7.0.33301
-dashboardUrl=https://sonarcloud.io/dashboard/index/DevopsWithJava:javavenv
-ceTaskId=AWA7K49goETz9fUAFN7z
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWA7K49goETz9fUAFN7z
+dashboardUrl=https://sonarcloud.io/dashboard/index/JavaDevops:javadevops
+ceTaskId=AWA8L5A2E5-t8Obqzsu-
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWA8L5A2E5-t8Obqzsu-
